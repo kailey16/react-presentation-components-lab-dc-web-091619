@@ -1,6 +1,6 @@
 # React Presentation Components Lab
 
-## Overview
+## Overview  
 
 In this lab, you'll write two components:
 
